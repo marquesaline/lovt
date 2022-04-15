@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Ropa Sans", sans-serif;
+}
+
+.divHeader {
+    width: 100%;
+    height: 48px;
+    line-height: 0%;
+    padding: 2% 5%;
+    border: 0ch;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.divEsquerda {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+h1 {
+    display: flex;
+    width: 63px;
+    height: 25px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    color: #777;
+}
+
+#descricao {
+    display: flex;
+    width: 38px;
+    height: 100%;
+    font-family: "Ropa Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 17px;
+    color: #aaa;
+
+}
+
+#traco {
+    transform: translateX(70%); 
+}
+
+.pagina {
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 2%;
+    padding: 0 5%;
+    gap: 37px;
+    background: #FFFFFF;
+
+}
+
+#bannerImg {
+    display: flex;
+    width: 100%;
+}
+
+.ofertas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #eee;
+    width: 256px;
+    height: 242px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.preco {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+}
+
+.preco p {
+    font-size: 25px;
+    color: #888888;
+}
+
+.preco span {
+    color: #fff;
+    width: 56px;
+    height: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10.5px;
+}
+
+#new {
+    background-color: #51D275;
+}
+
+#sale {
+    background-color: #DC9730;
+}
+
+.texto {
+    /* width: 231px;
+    height: 44px; */
+
+    padding: 0 12px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    text-align: justify;
+}
