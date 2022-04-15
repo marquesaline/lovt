@@ -1,3 +1,3 @@
 # Lovt
-## Landing Page de Imóveis
-### Status: em andamento
+Landing Page de Imóveis  
+Status: em andamento
