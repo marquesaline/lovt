@@ -3,7 +3,7 @@
     <p>Projeto do curso de Desenvolvimento Web da Digital House. 
     O projeto se trata de uma landing page para uma loja de venda de imóveis.</p>
 <h2>Landing Page</h2>
-    <img scr="img/modeloProjeto.png">
+    <p><img scr="img/modeloProjeto.png"></p>
 <h2>Ferramentas Utilizadas</h2>
     <ul>
         <li>HTML</li>
